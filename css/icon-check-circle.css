@@ -1,0 +1,6 @@
+:root {
+  --icon-check-circle: url(../svg/check-circle.svg);
+}
+.icon--check-circle {
+  --icon: var(--icon-check-circle);
+}

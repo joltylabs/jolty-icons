@@ -1,0 +1,6 @@
+:root {
+  --icon-chevron-down: url(../svg/chevron-down.svg);
+}
+.icon--chevron-down {
+  --icon: var(--icon-chevron-down);
+}

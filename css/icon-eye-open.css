@@ -1,0 +1,6 @@
+:root {
+  --icon-eye-open: url(../svg/eye-open.svg);
+}
+.icon--eye-open {
+  --icon: var(--icon-eye-open);
+}

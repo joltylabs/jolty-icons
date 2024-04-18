@@ -1,0 +1,6 @@
+:root {
+  --icon-minus-circle: url(../svg/minus-circle.svg);
+}
+.icon--minus-circle {
+  --icon: var(--icon-minus-circle);
+}

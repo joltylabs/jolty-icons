@@ -1,0 +1,6 @@
+:root {
+  --icon-not-allowed: url(../svg/not-allowed.svg);
+}
+.icon--not-allowed {
+  --icon: var(--icon-not-allowed);
+}

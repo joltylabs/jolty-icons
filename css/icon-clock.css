@@ -1,0 +1,6 @@
+:root {
+  --icon-clock: url(../svg/clock.svg);
+}
+.icon--clock {
+  --icon: var(--icon-clock);
+}

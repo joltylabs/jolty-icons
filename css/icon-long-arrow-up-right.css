@@ -1,0 +1,6 @@
+:root {
+  --icon-long-arrow-up-right: url(../svg/long-arrow-up-right.svg);
+}
+.icon--long-arrow-up-right {
+  --icon: var(--icon-long-arrow-up-right);
+}

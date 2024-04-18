@@ -1,0 +1,6 @@
+:root {
+  --icon-hash: url(../svg/hash.svg);
+}
+.icon--hash {
+  --icon: var(--icon-hash);
+}

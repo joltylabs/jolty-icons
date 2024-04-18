@@ -1,0 +1,6 @@
+:root {
+  --icon-dots-vertical: url(../svg/dots-vertical.svg);
+}
+.icon--dots-vertical {
+  --icon: var(--icon-dots-vertical);
+}

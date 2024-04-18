@@ -1,0 +1,6 @@
+:root {
+  --icon-clipboard: url(../svg/clipboard.svg);
+}
+.icon--clipboard {
+  --icon: var(--icon-clipboard);
+}
