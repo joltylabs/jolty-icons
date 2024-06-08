@@ -1,0 +1,29 @@
+{
+  "name": "jolty-icons",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joltylabs/jolty-icons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joltylabs/jolty-icons/issues"
+  },
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "homepage": "https://github.com/joltylabs/jolty-icons#readme",
+  "dependencies": {
+    "rollup": "^4.15.0",
+    "rollup-plugin-delete": "^2.0.0",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-url": "^3.0.1"
+  },
+  "devDependencies": {
+    "glob": "^10.3.12",
+    "postcss-url": "^10.1.3"
+  }
+}
