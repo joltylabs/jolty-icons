@@ -1,5 +1,5 @@
 :root {
-  --icon-triangle-right: url(../svg/triangle-right.svg);
+  --icon-triangle-right: url("data:image/svg+xml,%3Csvg width%3D%2224%22 height%3D%2224%22 viewBox%3D%220 0 24 24%22 fill%3D%22currentColor%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E  %3Cpath  d%3D%22M11.0475 15.8437C10.861 16.0069 10.5963 16.0459 10.3706 15.9435C10.1449 15.8411 10 15.6162 10 15.3684L10 8.63159C10 8.38377 10.1449 8.15885 10.3706 8.05645C10.5963 7.95405 10.861 7.99309 11.0475 8.15628L14.8971 11.5247C15.0341 11.6446 15.1128 11.8179 15.1128 12C15.1128 12.1821 15.0341 12.3554 14.8971 12.4753L11.0475 15.8437Z%22 %2F%3E%3C%2Fsvg%3E");
 }
 .icon--triangle-right {
   --icon: var(--icon-triangle-right);

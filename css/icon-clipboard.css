@@ -1,5 +1,5 @@
 :root {
-  --icon-clipboard: url(../svg/clipboard.svg);
+  --icon-clipboard: url("data:image/svg+xml,%3Csvg width%3D%2224%22 height%3D%2224%22 viewBox%3D%220 0 24 24%22 fill%3D%22none%22 stroke%3D%22currentColor%22 stroke-width%3D%221.5%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E  %3Cpath d%3D%22M8.27141 3.87646H6.30176C5.47333 3.87646 4.80176 4.54804 4.80176 5.37646V19.4999C4.80176 20.3283 5.47333 20.9999 6.30176 20.9999H17.6975C18.526 20.9999 19.1975 20.3283 19.1975 19.4999V5.37646C19.1975 4.54804 18.526 3.87646 17.6975 3.87646H15.6499%22 %2F%3E  %3Crect x%3D%228.40039%22 y%3D%223%22 width%3D%227.19789%22 height%3D%222.8539%22 rx%3D%220.5%22 %2F%3E%3C%2Fsvg%3E");
 }
 .icon--clipboard {
   --icon: var(--icon-clipboard);

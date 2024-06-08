@@ -1,7 +1,7 @@
-<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M12.1074 21.3838C17.078 21.3838 21.1074 17.3544 21.1074 12.3838C21.1074 7.41323 17.078 3.38379 12.1074 3.38379C7.13686 3.38379 3.10742 7.41323 3.10742 12.3838C3.10742 17.3544 7.13686 21.3838 12.1074 21.3838Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="12.1074" cy="7.98389" r="1" fill="black"/>
-  <path d="M12.1572 11.3337L12.1572 17.3337" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="10.1572" y1="11.3125" x2="12.1152" y2="11.3125" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="10.1572" y1="17.353" x2="14.0572" y2="17.353" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" />
+  <circle cx="12" cy="7.6001" r="1" fill="currentColor" stroke="none"/>
+  <path d="M12.0498 10.95L12.0498 16.95" />
+  <line x1="10.0498" y1="10.9287" x2="12.0078" y2="10.9287" />
+  <line x1="10.0498" y1="16.9692" x2="13.9498" y2="16.9692" />
 </svg>

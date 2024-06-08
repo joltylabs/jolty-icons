@@ -1,5 +1,5 @@
 :root {
-  --icon-cross-2: url(../svg/cross-2.svg);
+  --icon-cross-2: url("data:image/svg+xml,%3Csvg width%3D%2224%22 height%3D%2224%22 viewBox%3D%220 0 24 24%22 stroke%3D%22currentColor%22 stroke-width%3D%221.5%22 stroke-linecap%3D%22round%22 stroke-linejoin%3D%22round%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E    %3Cpath d%3D%22M5.05176 5.15918L18.8403 18.9478%22 %2F%3E    %3Cpath d%3D%22M5.05176 18.8408L18.8403 5.05224%22 %2F%3E%3C%2Fsvg%3E");
 }
 .icon--cross-2 {
   --icon: var(--icon-cross-2);

@@ -1,5 +1,5 @@
 :root {
-  --icon-copy: url(../svg/copy.svg);
+  --icon-copy: url("data:image/svg+xml,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 24 24%22 fill%3D%22none%22 stroke%3D%22currentColor%22 stroke-width%3D%221.5%22 stroke-linecap%3D%22round%22 stroke-linejoin%3D%22round%22%3E  %3Cpath d%3D%22m18.64%2C3.8h-9.48c-.87%2C0-1.58.71-1.58%2C1.58v2.18h7.43c.87%2C0%2C1.58.71%2C1.58%2C1.58v7.31h2.05c.87%2C0%2C1.58-.71%2C1.58-1.58V5.38c0-.87-.71-1.58-1.58-1.58Z%22%2F%3E  %3Cpath d%3D%22m7.57%2C7.56h-2.05c-.87%2C0-1.58.71-1.58%2C1.58v9.48c0%2C.87.71%2C1.58%2C1.58%2C1.58h9.48c.87%2C0%2C1.58-.71%2C1.58-1.58v-2.18%22%2F%3E%3C%2Fsvg%3E");
 }
 .icon--copy {
   --icon: var(--icon-copy);

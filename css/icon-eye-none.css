@@ -1,6 +1,0 @@
-:root {
-  --icon-eye-none: url(../svg/eye-none.svg);
-}
-.icon--eye-none {
-  --icon: var(--icon-eye-none);
-}

@@ -1,5 +1,5 @@
 :root {
-  --icon-long-arrow-down-right: url(../svg/long-arrow-down-right.svg);
+  --icon-long-arrow-down-right: url("data:image/svg+xml,%3Csvg width%3D%2224%22 height%3D%2224%22 viewBox%3D%220 0 24 24%22 stroke%3D%22currentColor%22 stroke-width%3D%221.5%22 stroke-linecap%3D%22round%22 stroke-linejoin%3D%22round%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E  %3Cpath d%3D%22M17.6545 17.6579L11.9248 17.5818%22 %2F%3E  %3Cpath d%3D%22M17.6553 17.6582L17.5791 11.9226%22 %2F%3E  %3Cpath d%3D%22M17.2314 17.2349L6.34183 6.34471%22 %2F%3E%3C%2Fsvg%3E");
 }
 .icon--long-arrow-down-right {
   --icon: var(--icon-long-arrow-down-right);
