@@ -1,0 +1,6 @@
+:root {
+  --icon-copy: url(../../svg/copy.svg);
+}
+.icon--copy {
+  --icon: var(--icon-copy);
+}

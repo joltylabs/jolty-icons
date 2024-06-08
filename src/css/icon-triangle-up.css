@@ -1,0 +1,6 @@
+:root {
+  --icon-triangle-up: url(../../svg/triangle-up.svg);
+}
+.icon--triangle-up {
+  --icon: var(--icon-triangle-up);
+}

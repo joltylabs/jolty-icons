@@ -1,0 +1,6 @@
+:root {
+  --icon-cross-2: url(../../svg/cross-2.svg);
+}
+.icon--cross-2 {
+  --icon: var(--icon-cross-2);
+}

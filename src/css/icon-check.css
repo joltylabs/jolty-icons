@@ -1,0 +1,6 @@
+:root {
+  --icon-check: url(../../svg/check.svg);
+}
+.icon--check {
+  --icon: var(--icon-check);
+}

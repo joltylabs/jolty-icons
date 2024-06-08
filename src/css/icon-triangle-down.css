@@ -1,0 +1,6 @@
+:root {
+  --icon-triangle-down: url(../../svg/triangle-down.svg);
+}
+.icon--triangle-down {
+  --icon: var(--icon-triangle-down);
+}

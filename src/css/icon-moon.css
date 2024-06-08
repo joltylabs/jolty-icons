@@ -1,0 +1,6 @@
+:root {
+  --icon-moon: url(../../svg/moon.svg);
+}
+.icon--moon {
+  --icon: var(--icon-moon);
+}

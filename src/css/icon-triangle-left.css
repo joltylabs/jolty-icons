@@ -1,0 +1,6 @@
+:root {
+  --icon-triangle-left: url(../../svg/triangle-left.svg);
+}
+.icon--triangle-left {
+  --icon: var(--icon-triangle-left);
+}

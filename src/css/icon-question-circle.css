@@ -1,0 +1,6 @@
+:root {
+  --icon-question-circle: url(../../svg/question-circle.svg);
+}
+.icon--question-circle {
+  --icon: var(--icon-question-circle);
+}

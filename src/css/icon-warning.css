@@ -1,0 +1,6 @@
+:root {
+  --icon-warning: url(../../svg/warning.svg);
+}
+.icon--warning {
+  --icon: var(--icon-warning);
+}
