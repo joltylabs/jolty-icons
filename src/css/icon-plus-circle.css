@@ -1,6 +1,6 @@
 :root {
-  --icon-plus-circle: url(../../svg/plus-circle.svg);
+  --ui-icon-plus-circle: url(../../svg/plus-circle.svg);
 }
-.icon--plus-circle {
-  --icon: var(--icon-plus-circle);
+.ui-icon--plus-circle {
+  --ui-icon: var(--ui-icon-plus-circle);
 }

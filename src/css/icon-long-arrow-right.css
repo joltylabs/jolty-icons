@@ -1,6 +1,6 @@
 :root {
-  --icon-long-arrow-right: url(../../svg/long-arrow-right.svg);
+  --ui-icon-long-arrow-right: url(../../svg/long-arrow-right.svg);
 }
-.icon--long-arrow-right {
-  --icon: var(--icon-long-arrow-right);
+.ui-icon--long-arrow-right {
+  --ui-icon: var(--ui-icon-long-arrow-right);
 }

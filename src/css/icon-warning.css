@@ -1,6 +1,6 @@
 :root {
-  --icon-warning: url(../../svg/warning.svg);
+  --ui-icon-warning: url(../../svg/warning.svg);
 }
-.icon--warning {
-  --icon: var(--icon-warning);
+.ui-icon--warning {
+  --ui-icon: var(--ui-icon-warning);
 }

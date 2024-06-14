@@ -1,6 +1,6 @@
 :root {
-  --icon-info-circle: url(../../svg/info-circle.svg);
+  --ui-icon-info-circle: url(../../svg/info-circle.svg);
 }
-.icon--info-circle {
-  --icon: var(--icon-info-circle);
+.ui-icon--info-circle {
+  --ui-icon: var(--ui-icon-info-circle);
 }

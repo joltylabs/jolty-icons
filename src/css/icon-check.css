@@ -1,6 +1,6 @@
 :root {
-  --icon-check: url(../../svg/check.svg);
+  --ui-icon-check: url(../../svg/check.svg);
 }
-.icon--check {
-  --icon: var(--icon-check);
+.ui-icon--check {
+  --ui-icon: var(--ui-icon-check);
 }

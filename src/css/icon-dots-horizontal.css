@@ -1,6 +1,6 @@
 :root {
-  --icon-dots-horizontal: url(../../svg/dots-horizontal.svg);
+  --ui-icon-dots-horizontal: url(../../svg/dots-horizontal.svg);
 }
-.icon--dots-horizontal {
-  --icon: var(--icon-dots-horizontal);
+.ui-icon--dots-horizontal {
+  --ui-icon: var(--ui-icon-dots-horizontal);
 }

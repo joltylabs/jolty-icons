@@ -1,6 +1,6 @@
 :root {
-  --icon-sun: url(../../svg/sun.svg);
+  --ui-icon-sun: url(../../svg/sun.svg);
 }
-.icon--sun {
-  --icon: var(--icon-sun);
+.ui-icon--sun {
+  --ui-icon: var(--ui-icon-sun);
 }

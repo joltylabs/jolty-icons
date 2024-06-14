@@ -1,6 +1,6 @@
 :root {
-  --icon-copy: url(../../svg/copy.svg);
+  --ui-icon-copy: url(../../svg/copy.svg);
 }
-.icon--copy {
-  --icon: var(--icon-copy);
+.ui-icon--copy {
+  --ui-icon: var(--ui-icon-copy);
 }

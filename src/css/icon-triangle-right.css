@@ -1,6 +1,6 @@
 :root {
-  --icon-triangle-right: url(../../svg/triangle-right.svg);
+  --ui-icon-triangle-right: url(../../svg/triangle-right.svg);
 }
-.icon--triangle-right {
-  --icon: var(--icon-triangle-right);
+.ui-icon--triangle-right {
+  --ui-icon: var(--ui-icon-triangle-right);
 }

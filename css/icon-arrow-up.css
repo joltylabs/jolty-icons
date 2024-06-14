@@ -1,6 +1,6 @@
 :root {
-  --icon-arrow-up: url("data:image/svg+xml,%3Csvg width%3D%2224%22 height%3D%2224%22 viewBox%3D%220 0 24 24%22 fill%3D%22none%22 stroke%3D%22currentColor%22 stroke-width%3D%221.5%22 stroke-linecap%3D%22round%22 stroke-linejoin%3D%22round%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E  %3Cpath d%3D%22M12.0007 5.00038L17.5615 10.5149%22 %2F%3E  %3Cpath d%3D%22M12.0003 4.99989L6.43945 10.5144%22 %2F%3E  %3Cpath d%3D%22M12 6L12 19%22 %2F%3E%3C%2Fsvg%3E");
+  --ui-icon-arrow-up: url("data:image/svg+xml,%3Csvg width%3D%2224%22 height%3D%2224%22 viewBox%3D%220 0 24 24%22 fill%3D%22none%22 stroke%3D%22currentColor%22 stroke-width%3D%221.5%22 stroke-linecap%3D%22round%22 stroke-linejoin%3D%22round%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E  %3Cpath d%3D%22M12.0007 5.00038L17.5615 10.5149%22 %2F%3E  %3Cpath d%3D%22M12.0003 4.99989L6.43945 10.5144%22 %2F%3E  %3Cpath d%3D%22M12 6L12 19%22 %2F%3E%3C%2Fsvg%3E");
 }
-.icon--arrow-up {
-  --icon: var(--icon-arrow-up);
+.ui-icon--arrow-up {
+  --ui-icon: var(--ui-icon-arrow-up);
 }

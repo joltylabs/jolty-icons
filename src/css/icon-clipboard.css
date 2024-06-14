@@ -1,6 +1,6 @@
 :root {
-  --icon-clipboard: url(../../svg/clipboard.svg);
+  --ui-icon-clipboard: url(../../svg/clipboard.svg);
 }
-.icon--clipboard {
-  --icon: var(--icon-clipboard);
+.ui-icon--clipboard {
+  --ui-icon: var(--ui-icon-clipboard);
 }

@@ -1,6 +1,6 @@
 :root {
-  --icon-question-circle: url(../../svg/question-circle.svg);
+  --ui-icon-question-circle: url(../../svg/question-circle.svg);
 }
-.icon--question-circle {
-  --icon: var(--icon-question-circle);
+.ui-icon--question-circle {
+  --ui-icon: var(--ui-icon-question-circle);
 }

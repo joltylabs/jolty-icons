@@ -1,6 +1,6 @@
 :root {
-  --icon-hash: url(../../svg/hash.svg);
+  --ui-icon-hash: url(../../svg/hash.svg);
 }
-.icon--hash {
-  --icon: var(--icon-hash);
+.ui-icon--hash {
+  --ui-icon: var(--ui-icon-hash);
 }

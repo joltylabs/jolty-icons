@@ -1,6 +1,6 @@
 :root {
-  --icon-clock: url(../../svg/clock.svg);
+  --ui-icon-clock: url(../../svg/clock.svg);
 }
-.icon--clock {
-  --icon: var(--icon-clock);
+.ui-icon--clock {
+  --ui-icon: var(--ui-icon-clock);
 }

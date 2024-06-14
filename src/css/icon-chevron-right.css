@@ -1,6 +1,6 @@
 :root {
-  --icon-chevron-right: url(../../svg/chevron-right.svg);
+  --ui-icon-chevron-right: url(../../svg/chevron-right.svg);
 }
-.icon--chevron-right {
-  --icon: var(--icon-chevron-right);
+.ui-icon--chevron-right {
+  --ui-icon: var(--ui-icon-chevron-right);
 }

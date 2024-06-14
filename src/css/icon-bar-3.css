@@ -1,6 +1,6 @@
 :root {
-  --icon-bar-3: url(../../svg/bar-3.svg);
+  --ui-icon-bar-3: url(../../svg/bar-3.svg);
 }
-.icon--bar-3 {
-  --icon: var(--icon-bar-3);
+.ui-icon--bar-3 {
+  --ui-icon: var(--ui-icon-bar-3);
 }
